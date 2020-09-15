@@ -1,0 +1,3 @@
+indent jadi 2
+view toogle wrap
+cek mobile bisa ga
